@@ -600,3 +600,12 @@ footer p {
     text-align: center;
     margin-top: 20px;
 }
+
+/* -------------------------------------------------------- */
+/* ANIMATIONS */
+/* -------------------------------------------------------- */
+
+.js--wp-2 {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+}
